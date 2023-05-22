@@ -1,0 +1,8 @@
+Nome do Algoritmo, Tamanho do Vetor, Tempo Usado, Compara��es Feitas, Atribui��es Feitas
+Bubble Sort, 10, 1.000000, 42, 75
+Bubble Sort, 10, 0.000000, 42, 75
+Selection Sort, 10, 0.000000, 54, 21
+Bubble Sort, 50000, 5415.000000, 1249829470, 1851971751
+Bubble Sort, 50000, 5421.000, 1249829470, 1851971751
+Insertion Sort, 50000, 1485.000, 617323917, 617373916
+Insertion Sort, 50000, 1453.000, 617323917, 617373916
